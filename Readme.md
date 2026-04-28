@@ -56,8 +56,6 @@ Examples:
 ---
 
 ## ⚙️ Example Prompt
-
-```text
 Generate Terraform code for:
 - Azure Virtual Machine
 - NSG with inbound rules
